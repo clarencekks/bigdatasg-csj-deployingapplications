@@ -6,7 +6,7 @@
 If you are not familiar with Google Cloud Platform ,Its recommended to complete  [Baseline: Deploy & Develop](https://google.qwiklabs.com/quests/37) and/or [GCP Essentials](https://google.qwiklabs.com/quests/23) before beginning.
 
 #### The Deploying application uses following GCP services - 
-1. [Google App Engine](https://cloud.google.com/appengine/)
+ 1. [Google App Engine](https://cloud.google.com/appengine/)
 2. [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/)
 3.[Google Container Registry](https://cloud.google.com/container-registry/)
 
