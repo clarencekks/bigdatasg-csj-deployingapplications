@@ -17,7 +17,7 @@ If you are not familiar with Google Cloud Platform ,Its recommended to complete 
 2. [Firebase Platform for Node .js ](https://firebase.google.com/products/)
 3. [Apigee Management API](https://apigee.com/about/cp/api-management-gateway)
 
-### Slides for CSJ workshop- 
+### Slides for CSJ workshop(23 March 2019) - 
 1. Deploying a Python/ASP.NET/Ruby on Rails Application to App Engine Flexible
 2. Running WordPress on App Engine Flexible Environment
 3. Deploy an ASP.NET Core App to App Engine
