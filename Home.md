@@ -18,10 +18,11 @@ If you are not familiar with Google Cloud Platform ,Its recommended to complete 
 3. [Apigee Management API](https://apigee.com/about/cp/api-management-gateway)
 
 ### Slides for CSJ workshop(23 March 2019) - 
-1. Deploying a Python/ASP.NET/Ruby on Rails Application to App Engine Flexible
-2. Running WordPress on App Engine Flexible Environment
-3. Deploy an ASP.NET Core App to App Engine
-4. Firebase SDK for Cloud Functions
+1. [CSJ Workshop Overview and Briefing](https://drive.google.com/open?id=1Rv-3nugN_FCP6uty7QI4BeamvQ97Im2u)
+2. Deploying a Python/ASP.NET/Ruby on Rails Application to App Engine Flexible
+3. Running WordPress on App Engine Flexible Environment
+4. Deploy an ASP.NET Core App to App Engine
+5. Firebase SDK for Cloud Functions
 
 
 Overview of Google App Engine 
