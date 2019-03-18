@@ -34,7 +34,12 @@ If you are not familiar with Google Cloud Platform ,Its recommended to complete 
 ### Wanna learn more ,Check out this GCP community tutorials on Deploying Applications -
 [Deploying Applications Tutorials](https://cloud.google.com/community/tutorials/)
 
-Wanna run App Engine in  Production -
-Check the quotas 
+### Wanna run App Engine in Production Environment -
+[Check the quota for App engine ](https://cloud.google.com/appengine/quotas)
+
+### Logging and Debugging your App -
+[Qwiklabs Lab](https://google.qwiklabs.com/focuses/693?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=2195140)
+
+
 
 
