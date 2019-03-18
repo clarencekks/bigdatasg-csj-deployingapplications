@@ -24,18 +24,17 @@ If you are not familiar with Google Cloud Platform ,Its recommended to complete 
 4. Deploy an ASP.NET Core App to App Engine
 5. Firebase SDK for Cloud Functions
 
+### Wanna understand more concepts on Deploying Applications 
+* [Google App Engine Video](https://www.youtube.com/watch?v=2PRciDpqpko&autoplay=1)
 
-Overview of Google App Engine 
+* [Google App Engine docs](https://cloud.google.com/appengine/)
 
-[Google App Engine Video](https://www.youtube.com/watch?v=2PRciDpqpko&autoplay=1)
-
-Google App Engine Docs
-
- [Google App Engine docs](https://cloud.google.com/appengine/)
-
-[Interactive Deploying Applications Flow- Try Me !!](https://labfiles.linuxacademy.com/googlecloud/google-app-engine-deep-dive/index.html)
+* [Interactive Deploying Applications Flow- Try Me !!](https://labfiles.linuxacademy.com/googlecloud/google-app-engine-deep-dive/index.html)
 
 ### Wanna learn more ,Check out this GCP community tutorials on Deploying Applications -
 [Deploying Applications Tutorials](https://cloud.google.com/community/tutorials/)
+
+Wanna run App Engine in  Production -
+Check the quotas 
 
 
