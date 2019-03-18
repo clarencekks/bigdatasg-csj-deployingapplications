@@ -17,6 +17,12 @@ If you are not familiar with Google Cloud Platform ,Its recommended to complete 
 2. [Firebase Platform for Node .js ](https://firebase.google.com/products/)
 3. [Apigee Management API](https://apigee.com/about/cp/api-management-gateway)
 
+### Slides for CSJ workshop- 
+1. 
+2.
+3.
+4
+
 
 Overview of Google App Engine 
 
