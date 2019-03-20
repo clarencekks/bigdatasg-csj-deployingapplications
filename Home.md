@@ -19,9 +19,9 @@ If you are not familiar with Google Cloud Platform ,Its recommended to complete 
 
 * ### Slides for CSJ workshop(23 March 2019) - 
 1. [CSJ Workshop Overview and Briefing](https://drive.google.com/open?id=1Rv-3nugN_FCP6uty7QI4BeamvQ97Im2u)
-2. Deploying a Python/ASP.NET/Ruby on Rails Application to App Engine Flexible
+2. [Deploying a Python/ASP.NET/Ruby on Rails Application to App Engine Flexible](https://drive.google.com/open?id=16aDjAhxyJQWJ1U5LSSE3tA_TghZAZIdMatIR47xuLOI)
 3. Running WordPress on App Engine Flexible Environment
-4. Deploy an ASP.NET Core App to App Engine
+4. [Deploy an ASP.NET Core App to App Engine](https://drive.google.com/open?id=1ZYpKUnptVnmC6pdAr1Q8AZK8Kvv6oin1TTJAojvCLGc)
 5. Firebase SDK for Cloud Functions
 
 * ### Don't know which command to use - 
