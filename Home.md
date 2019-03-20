@@ -50,7 +50,8 @@ If you are not familiar with Google Cloud Platform ,Its recommended to complete 
 4. [Evite](https://cloudplatform.googleblog.com/2013/12/google-compute-engine-and-app-engine-give-evite-freedom-to-expand-services-anytime.html)
 5. [floreysoft](https://cloud.google.com/customers/floreysoft/)
 6. [Rovio](https://cloud.google.com/files/Rovio.pdf)
-7.  [Misc](https://www.awwwards.com/websites/google-app-engine/)
+7. [AirAsia](https://cloud.google.com/customers/airasia/)
+8. [Misc](https://www.awwwards.com/websites/google-app-engine/)
 
 
 
