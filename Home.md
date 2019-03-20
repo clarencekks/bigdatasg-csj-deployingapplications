@@ -27,17 +27,17 @@ If you are not familiar with Google Cloud Platform ,Its recommended to complete 
 * ### Don't know which command to use - 
    [Check out the Cheat Sheet](https://docs.google.com/presentation/d/1u4sA6Es_DTsnXSrY3I20YE-UnCIVn2WVNs899Wc8uu8/edit?usp=sharing)
 
-* ### Wanna understand more concepts on Deploying Applications 
+* ### Understand more concepts on Deploying Applications 
 1.  [Google App Engine Video](https://www.youtube.com/watch?v=2PRciDpqpko&autoplay=1)
 
 2.  [Google App Engine docs](https://cloud.google.com/appengine/)
 
 3. [Interactive Deploying Applications Flow- Try Me !!](https://labfiles.linuxacademy.com/googlecloud/google-app-engine-deep-dive/index.html)
 
-* ### Wanna learn more ,Check out this GCP community tutorials on Deploying Applications -
+* ### Check out this GCP community tutorials on Deploying Applications to learn more 
    [Deploying Applications Tutorials](https://cloud.google.com/community/tutorials/)
 
-* ### Wanna run App Engine in Production Environment -
+* ### Running App Engine in Production Environment -
    [Learn about the App Engine Quota ](https://cloud.google.com/appengine/quotas)
 
 * ### How to Debug and Monitor your App -
