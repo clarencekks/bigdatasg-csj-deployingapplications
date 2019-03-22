@@ -53,6 +53,12 @@ If you are not familiar with Google Cloud Platform ,Its recommended to complete 
 7. [AirAsia](https://cloud.google.com/customers/airasia/)
 8. [Misc](https://www.awwwards.com/websites/google-app-engine/)
 
+* ### Sites/Apps that uses Firebase service 
+1. [Fabulous](https://thefabulous.co/)
+2. [OnefootBall](https://onefootball.com/)
+3. [npr](https://play.google.com/store/apps/details?id=org.npr.android.news&hl=en)
+4.[playbuzz](https://www.playbuzz.com/)
+
 
 
 
